@@ -17,7 +17,9 @@ A web-based news application developed using **React**, **Tailwind CSS** and **J
 - Responsive design using Tailwind CSS.
 - Built with modern technologies: **React**, **JavaScript**, **HTML**, and **CSS**.
 
-## Demo
+## Demo 
+
+Check out the live demo: [GV-NEWS Live Demo](https://nishant100101.github.io/GV-NEWS/)
 
 ![Screenshot 1](Demo/screenshot1.jpeg)
 ![Screenshot 2](Demo/screenshot2.jpeg)
